@@ -20,3 +20,14 @@ Instalar o modulo para reiniciar o servidor sempre que houver alteracao no codig
 
 Rodar o projeto com o nodemon
 ### nodemon app.js
+
+Instalar o banco de dados MySQL
+
+Verificar o banco de dados MySQL no prompt de comando
+### mysql -h localhost -u root -p
+
+Instalar o Workbench para gerenciar o banco de dados de forma grafica
+
+Comandos basicos de MySQL
+Criar a base de dados
+###  create database celke character set utf8mb4 collate utf8mb4_unicode_ci;

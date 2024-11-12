@@ -75,3 +75,8 @@ Apagar registro no banco de dados:
 ### DELETE FROM users; // Apaga todos os registros.
 ### DELETE FROM users WHERE id = 3; Apaga o registro selecionado.
 
+Conectando Node.js com MySQL usando o Sequelize(Sequelize e uma biblioteca JavaScript que facilita o gerenciamneto de um banco de dados SQL):
+### npm install --save sequelize
+
+Instalar o drive do banco de dados:
+### npm install --save mysql2
